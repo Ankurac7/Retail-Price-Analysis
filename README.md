@@ -31,7 +31,13 @@ To ensure fair comparisons and accurate modeling, I appropriately scaled numeric
 
 ### 11. Data Splitting and Modeling: 
 Linear Regression and Decision Tree Regression
-
-## Note: 
-I have reduced the file size of the iPython Notebook because I load several images inside to add to this git repository.  
-
+## :scroll: Note: 
+-   **I have reduced the file size of the iPython Notebook because I load several images inside to add to this git repository. To view the output, re-run the cells one after the other.**
+-   **Requirements:**
+Ensure you have these libraries installed in your system.
+```
+pip install seaborn
+```
+```
+pip install plotly==5.15.0
+```
