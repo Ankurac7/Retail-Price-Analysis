@@ -31,3 +31,7 @@ To ensure fair comparisons and accurate modeling, I appropriately scaled numeric
 
 ### 11. Data Splitting and Modeling: 
 Linear Regression and Decision Tree Regression
+
+## Note: 
+I have reduced the file size of the iPython Notebook because I load several images inside to add to this git repository.  
+
